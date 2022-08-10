@@ -1,0 +1,2 @@
+# amonstrong-
+Amonstrong number 
